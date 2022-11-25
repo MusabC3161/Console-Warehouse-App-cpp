@@ -1,0 +1,5 @@
+﻿  warehouse.cpp
+C:\Users\Pc\Desktop\C++\Warehouse\Warehouse\warehouse.cpp(37,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Pc\Desktop\C++\Warehouse\Warehouse\warehouse.cpp(90,15): warning C4018: '>=': imzalı/imzasız uyuşmazlığı
+C:\Users\Pc\Desktop\C++\Warehouse\Warehouse\warehouse.cpp(108,15): warning C4018: '>=': imzalı/imzasız uyuşmazlığı
+  Warehouse.vcxproj -> C:\Users\Pc\Desktop\C++\Warehouse\Debug\Warehouse.exe
